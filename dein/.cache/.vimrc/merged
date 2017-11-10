@@ -1,2 +1,2 @@
 100
-['Shougo/dein.vim', 'Shougo/neocomplete.vim', 'Shougo/neomru.vim', 'Shougo/neosnippet-snippets', 'Shougo/neosnippet.vim', 'Shougo/unite.vim', 'cespare/vim-toml', 'tomasr/molokai']
+['Shougo/dein.vim', 'Shougo/neocomplete.vim', 'Shougo/neomru.vim', 'Shougo/neosnippet-snippets', 'Shougo/neosnippet.vim', 'Shougo/unite.vim', 'cespare/vim-toml', 'tell-k/vim-browsereload-mac', 'tomasr/molokai']

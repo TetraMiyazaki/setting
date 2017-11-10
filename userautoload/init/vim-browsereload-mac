@@ -1,0 +1,6 @@
+:ChromeReload      //reload "Google Chrome"
+:FirefoxReload     //reload "Firefox"
+:SafariReload      //reload "Safari"
+:OperaReload       //reload "Opera"
+:AllBrowserReload  //reload all browser
+
